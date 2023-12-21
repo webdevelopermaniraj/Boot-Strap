@@ -1,0 +1,131 @@
+@media screen and (max-width: 992px){
+    .section1 h4 {
+        
+        font-size: 21px;
+    }
+    .section1 p {
+        
+        font-size: 11px;
+    }
+    .section5 h4{
+        font-size: 18px;
+    }
+    .section5 p {
+       
+        font-size: 13px;
+    }
+    .section5 span {
+        
+        font-size: 15px;
+    }
+    .section5 img {
+        margin: 0px 0px 0px -25px!important;
+    }
+    .section4 p {
+        
+        font-size: 18px;
+    }
+    .section4 span {
+        font-size: 20px;
+    }
+    .section3 h3 {
+        
+        font-size: 23px;
+    }
+    .section3 p {
+        
+        font-size: 14px;
+    }
+    .section3 h5 {
+        
+        font-size: 14px;
+    }
+    .section2 h6 {
+        font-size: 21px;
+    }
+    .section2 p {
+        
+        font-size: 15px;
+    }
+    .section7 h6 {
+        font-size: 14px;
+    }
+    .section7 h3 {
+        font-size: 16px;
+    }
+    .section7 p {
+        font-size: 13px;
+    }
+    .section7 a {
+        font-size: 16px;
+    }
+    .section8 p {
+        
+        font-size: 18px;
+    }
+    .section8 h4 {
+        
+        font-size: 26px;
+        
+    }
+    .section9 h2 {
+        font-size: 42px;
+    }
+    .section9 p {
+        font-size: 19px;
+    }
+    .section9 h3 {
+        
+        font-size: 27px;
+    }
+    .section9 h4 {
+        font-size: 21px;
+    }
+    .section9 .last h4 {
+
+        font-size: 21px;
+    }
+}
+
+
+@media screen and (max-width:576px){
+    .section8 img{
+        padding-right: 6px!important;
+    }
+    .section7headers h5 {
+        
+        font-size: 34px;
+    }
+    .section5 h3 {
+        
+        font-size: 34px;
+        
+    }
+    /* .section5 img{
+        margin: 0px 0px 20px;
+    } */
+    .section4 span {
+        
+        font-size: 17px;
+    }
+    .section3 h4 {
+        
+        font-size: 36px;
+        
+    }
+    .sec3 {
+        padding: 15px 0px;
+    }
+
+    .section5 p {
+        font-size: 17px;
+    }
+
+    
+}
+
+/* @media screen and (max-width:1200px){
+    .section5 img{
+        margin: 0px 0px 0px -16px;
+    }
+} */
